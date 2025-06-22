@@ -4,7 +4,7 @@
     "protocol": "vless",
     "settings": {
       "clients": [{
-        "id": "YOUR_UUID",
+        "id": "3aaab4b1-bbeb-4ba8-ad1a-52f89c6b8d81",
         "level": 0
       }],
       "decryption": "none"
